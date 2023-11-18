@@ -117,7 +117,7 @@ button:focus-visible {
   z-index: -1;
 
   inline-size: 105%;
-  block-size: 0.3em;
+  block-size: 0.3ch;
 
   background-color: var(--accent-color);
 }
